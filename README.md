@@ -4,6 +4,8 @@ Le projet **Digital Banking**, est une application de gestion de comptes bancair
 Boot**. Ce projet illustre les concepts essentiels du développement backend moderne, comme les DTOs, la sécurité, les
 services REST, la gestion d'exceptions, et bien plus.
 
+• [Frontend Repository](https://github.com/SaraElAmrani/digital-banking-frontend-angular)
+
 ---
 
 ## Sommaire
